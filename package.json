@@ -1,6 +1,6 @@
 {
   "name": "@coronafriend/coronafriend-assets",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Images, logos and icons for www.coronafriend.com",
   "main": "index.js",
   "scripts": {
